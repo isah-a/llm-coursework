@@ -1,0 +1,3 @@
+tqdm
+qdrant-client[fastembed]>=1.14.2
+python-dotenv
